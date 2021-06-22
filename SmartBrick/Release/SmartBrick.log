@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (BrickChallenger.vcxproj, Project28.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Game.cpp
+  GameMap.cpp
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(181): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(182): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(194): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(195): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(207): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(208): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(216): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\home\source\repos\sokoban\smartbrick\gamemap.cpp(217): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Source.cpp
+  GameWindow.cpp
+c:\users\home\source\repos\sokoban\smartbrick\gamewindow.cpp(87): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\home\source\repos\sokoban\smartbrick\gamewindow.cpp(93): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\home\source\repos\sokoban\smartbrick\gamewindow.cpp(96): warning C4244: инициализация: преобразование "float" в "sf::Int64", возможна потеря данных
+c:\users\home\source\repos\sokoban\smartbrick\gamewindow.cpp(101): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\home\source\repos\sokoban\smartbrick\gamewindow.cpp(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  354 of 362 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SmartBrick.vcxproj -> C:\Users\Home\source\repos\sokoban\Release\SmartBrick.exe
